@@ -2,7 +2,7 @@
 
 <h2 align="center">Hola mundo. Soy Alejandro 👋🤓</h2>
 <p align="center">Soy estudiante de la carrera Analista programador universitario, ya casi termino. Programo más que nada en javaEE, y en el frontend uso Bootstrap4 y obviamente HTML5 CSS3 y JS. Me encanta crear proyectos, pueden ver mis favoritos más abajo. Soy antes que nada creativo y autodidacta. También me gusta ser confiable y versátil.</p>
-  <p align="center">📫 <a href="https://alejandrogonzalovera.com.ar/">www.alejandrogonzalovera.com.ar</a>
+  <p align="center"><a href="https://alejandrogonzalovera.com.ar/" target="_blank">www.alejandrogonzalovera.com.ar</a>
 <!--
 **AlexielArdilla/AlexielArdilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

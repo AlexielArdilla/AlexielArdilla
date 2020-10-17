@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/AlexielArdilla/AlexielArdilla/master/portadaGithub.png
+[imagen de portada Github](portadaGithub.png)
 <!--
 **AlexielArdilla/AlexielArdilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-![imagen de portada Github](javaDevAlexxGithub.png)
+![imagen de portada Github](javaDevAlexxGithub2.png)
 
 <h2 align="center">Hola mundo. Soy Alejandro 👋🤓</h2>
 <p align="center">Estudié la carrera Analista programador universitario. Programo más que nada en javaEE, y en el frontend uso Bootstrap4 y obviamente HTML5 CSS3 y JS. Me encanta crear proyectos, pueden ver mis favoritos más abajo. Soy antes que nada creativo y autodidacta. También me gusta ser confiable y versátil.</p>

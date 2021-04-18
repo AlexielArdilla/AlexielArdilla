@@ -1,4 +1,4 @@
-![imagen de portada Github](portadaGithub3.png)
+![imagen de portada Github](portadaGithub4.png)
 
 <h2 align="center">Hola mundo. Soy Alejandro 👋🤓</h2>
 <p align="center">Estudié la carrera Analista programador universitario. Programo más que nada en javaEE, y en el frontend uso Bootstrap4 y obviamente HTML5 CSS3 y JS. Separo el desarrollo web de Java, ya que si bien programo en Java web, los veo como dos temas separados. Por un lado están mis proyectos web y por otro los de Java, más centrados en el backend. Me encanta crear proyectos, pueden ver mis favoritos más abajo. Soy antes que nada creativo y autodidacta. También me gusta ser confiable y versátil.</p>

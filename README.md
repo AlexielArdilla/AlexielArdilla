@@ -5,7 +5,7 @@
 
 <p align="center">Soy versátil, y muy proactivo, me gusta mucho trabajar solo; one-man-army, pero no tengo problema en trabajar en equipo también. Tengo muchos planes para el futuro próximo, ya que enseño en Udemy y también estoy creando un perfil de youtuber para monetizar, voy a crear tutoriales a lo loco. jajja, también a freelancear un poco, si surge algo interesante. Contáctenme en LinkedIn, soy buena onda y los puedo guiar en lo que necesiten. Saludirijillos (Por qué todo con -illo!!!)</p>
 
-<p>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexielArdilla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexielArdilla&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>

@@ -1,4 +1,4 @@
-![imagen de portada Github](banner_github_react_java.PNG)
+![imagen de portada Github](AlexxbackendJava.png)
 
 <h2 align="center">Hola mundo. Soy Alejandro 👋🤓</h2>
 <p align="center">Estudié la carrera Analista programador universitario hasta 3er año. Programo en JavaEE, fullstack (mid-level), y en React.js(learning) con backend en Java. Soy casi 100% autodidacta (una trampa, fuí a la facultad), pero más allá de haber ido a la facultad, aprendo de Udemy, de Codecademy, de Google actívate, de donde salga un curso, youtube, de foros.</p>

@@ -1,9 +1,9 @@
 ![imagen de portada Github](AlexxbackendJava.png)
 
 <h2 align="center">Hola mundo. Soy Alejandro 👋🤓</h2>
-<p align="center">Estudié la carrera Analista programador universitario hasta 3er año. Programo en JavaEE, fullstack (mid-level), y en React.js(learning) con backend en Java. Soy casi 100% autodidacta (una trampa, fuí a la facultad), pero más allá de haber ido a la facultad, aprendo de Udemy, de Codecademy, de Google actívate, de donde salga un curso, youtube, de foros.</p>
+<p align="center">Estudié la carrera Analista programador universitario hasta 3er año. Metí 23 materias. Programo en JavaEE, Backend. Aunque tengo conocimientos de Javascript y diseño web, lo que me gusta es el backend en Java.</p>
 
-<p align="center">Soy versátil, y muy proactivo, me gusta mucho trabajar solo; one-man-army, pero no tengo problema en trabajar en equipo también. Tengo muchos planes para el futuro próximo, ya que enseño en Udemy y también estoy creando un perfil de youtuber para monetizar, voy a crear tutoriales a lo loco. jajja, también a freelancear un poco, si surge algo interesante. Contáctenme en LinkedIn, soy buena onda y los puedo guiar en lo que necesiten. Saludirijillos (Por qué todo con -illo!!!)</p>
+<p align="center">Soy versátil, y muy proactivo, me gusta mucho trabajar en equipo. Tengo muchos planes para el futuro próximo, ya que enseño en Udemy y además me estoy preparando para entrevistas laborales de Backend en java EE para dar lo mejor de mí en una empresa que valga la pena y ser redituable, y a la vez bien remunerado.</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexielArdilla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

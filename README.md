@@ -1,7 +1,7 @@
 ![imagen de portada Github](AlexxbackendJava.png)
 
 <h2 align="center">Hola mundo. Soy Alejandro 👋🤓</h2>
-<p align="center">Hola gente:
+<p align="center">
 
 🔥 Me destaco en varios campos profesionales. La programación, la enseñanza online (múltiples áreas pueden ver en mi linktree) y presencial de Inglés y Guitarra. 
 

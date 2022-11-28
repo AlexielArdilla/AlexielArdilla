@@ -1,9 +1,26 @@
 ![imagen de portada Github](AlexxbackendJava.png)
 
 <h2 align="center">Hola mundo. Soy Alejandro 👋🤓</h2>
-<p align="center">Estudié la carrera Analista programador universitario hasta 3er año. Metí 23 materias. Programo en JavaEE, Backend. Aunque tengo conocimientos de Javascript y diseño web, lo que me gusta es el backend en Java.</p>
+<p align="center">Hola gente:
 
-<p align="center">Soy versátil, y muy proactivo, me gusta mucho trabajar en equipo. Tengo muchos planes para el futuro próximo, ya que enseño en Udemy y además me estoy preparando para entrevistas laborales de Backend en java EE para dar lo mejor de mí en una empresa que valga la pena y ser redituable, y a la vez bien remunerado.</p>
+🔥 Me destaco en varios campos profesionales. La programación, la enseñanza online (múltiples áreas pueden ver en mi linktree) y presencial de Inglés y Guitarra. 
+
+🎓 Estudio la Lic. en gestión TI en UNPAZ, y estoy haciendo un curso de Experto Universitario en counselling en la UTN (online). También estoy haciendo El curso de Inglés del Centro Universitario de Idiomas de la UBA. 
+
+🚀 Mi objetivo es innovar, encontrar algo que no haya sido visto y desarrollarlo, un software, un framework, alguna modalidad de coding. 
+
+☎️ También me interesa lo social, es por eso que estudio para counselor. Amo estudiar temáticas relacionadas a lo social y a la psicología, y me encanta ser proactivo y conciliador en las dinámicas de grupo.
+
+💎 Síganme o agréguenme si lo deseana linkedIn: https://www.linkedin.com/in/alejandro-gonzalo-vera/
+
+❌ No me encuentro en busca de empleo actualmente.
+
+💯 https://linktr.ee/alexielardilla
+
+Saludos cordiales.
+
+Alexx</p>
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexielArdilla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />

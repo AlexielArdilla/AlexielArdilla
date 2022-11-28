@@ -11,7 +11,7 @@
 
 ☎️ También me interesa lo social, es por eso que estudio para counselor. Amo estudiar temáticas relacionadas a lo social y a la psicología, y me encanta ser proactivo y conciliador en las dinámicas de grupo.
 
-💎 Síganme o agréguenme si lo deseana linkedIn: https://www.linkedin.com/in/alejandro-gonzalo-vera/
+💎 Síganme o agréguenme si lo desean en linkedIn: https://www.linkedin.com/in/alejandro-gonzalo-vera/
 
 ❌ No me encuentro en busca de empleo actualmente.
 

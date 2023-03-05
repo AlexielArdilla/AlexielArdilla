@@ -28,8 +28,8 @@ Alexx</p>
 </p>
 
 
-  <h1 align="center">:computer: <a href="https://alexielardilla.github.io/portfolio-ale-vera/" target="_blank">Mi portfolio</a></h1>
-<!--
+  <!--<h1 align="center">:computer: <a href="https://alexielardilla.github.io/portfolio-ale-vera/" target="_blank">Mi portfolio</a></h1>
+
 **AlexielArdilla/AlexielArdilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

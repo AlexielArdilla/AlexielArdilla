@@ -1,4 +1,4 @@
-![imagen de portada Github](rabbit house dev.jpg)
+![imagen de portada Github](rabbit_house_dev.jpg)
 
 <h2 align="center">Hola mundo. Soy Alejandro 👋🤓</h2>
 <p align="center">

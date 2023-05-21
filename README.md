@@ -5,7 +5,7 @@
 
 🔥 Me destaco en varios campos profesionales. La programación, la enseñanza online (múltiples áreas pueden ver en mi linktree) y presencial de Inglés y Guitarra. 
 
-🎓 Estudio la diplomatura **Professional Full-Stack Developer en la UTN**. También estoy haciendo El curso de Inglés del Centro Universitario de Idiomas de la UBA (actualizado: ya terminé el curso, aprobado). Otros varios cursos de Udemy, y la carrera de **Full-Stack Engineer en Codecademy**.
+🎓 Estudio la diplomatura **Professional Full-Stack Developer en la UTN**. También estoy haciendo El curso de **Inglés del Centro Universitario de Idiomas de la UBA nivel B2** (actualizado: ya terminé el curso, aprobado). Otros varios cursos de Udemy, y la carrera de **Full-Stack Engineer en Codecademy**.
 
 🚀 Mi objetivo es innovar, encontrar algo que no haya sido visto y desarrollarlo, un software, un framework, alguna modalidad de coding. 
 

@@ -33,7 +33,7 @@ Alexx</p>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,css,html,js,nodejs,mysql,firebase,git,github,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,java,py,css,html,js,react,angular,nodejs,mysql,firebase,git,github,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=14" />
   </a>
 </p>
 

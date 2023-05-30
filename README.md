@@ -51,8 +51,6 @@ Saludos cordiales.
       </p>
     <p align="center">
         <a href="https://youtu.be/kZGMsQIA8Ws" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
-      <br>
-      <a href="https://linkedin.com/in/alejandro-gonzalo-vera" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alejandrovera"/></a>
     </p>       
 </td>
   
@@ -63,8 +61,6 @@ Saludos cordiales.
       </p>
     <p align="center">
         <a href="https://youtu.be/ueIsyJV4vkA" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
-      <br>
-      <a href="https://linkedin.com/in/alejandro-gonzalo-vera" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alejandrovera"/></a>
      </p>       
 </td>
   
@@ -75,8 +71,6 @@ Saludos cordiales.
       </p>
     <p align="center">
         <a href="https://youtu.be/vwyqHsUkwgk" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
-      <br>
-      <a href="https://linkedin.com/in/alejandro-gonzalo-vera" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alejandrovera"/></a>
     </p>       
 </td>
 
@@ -87,8 +81,6 @@ Saludos cordiales.
       </p>
     <p align="center">
         <a href="https://youtu.be/dMzrJKXb1d8" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
-      <br>
-      <a href="https://linkedin.com/in/alejandro-gonzalo-vera" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alejandrovera"/></a>
     </p>       
 </td>
   

@@ -88,4 +88,5 @@ Saludos cordiales.
 </table>
   </div>
 <br>
+<br><br>
 <h1 align="center">Mis proyectos favoritos:</h1>

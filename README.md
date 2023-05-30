@@ -32,8 +32,8 @@ Saludos cordiales.
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=c,java,css,html,js,react,angular,nodejs,mysql,firebase,git,github,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=14" />
+  <a align="center" href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,css,html,js,react,angular,nodejs,mysql,firebase,git,github,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=14" />
   </a>
 </p>
 

@@ -27,7 +27,7 @@
 
 Saludos cordiales.
 
-Alexx</p>
+<h3>Alexx</h3></p>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->

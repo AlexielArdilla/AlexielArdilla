@@ -33,7 +33,7 @@ Saludos cordiales.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,css,html,js,react,angular,nodejs,mysql,firebase,git,github,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=14" />
+    <img align="center" src="https://skillicons.dev/icons?i=c,java,css,html,js,react,angular,nodejs,mysql,firebase,git,github,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=14" />
   </a>
 </p>
 

@@ -43,22 +43,24 @@ Saludos cordiales.
 
 <table align="left" >
 <tr border="none">
+  
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/kZGMsQIA8Ws" title="Go to Source">
         <img align="center" width=100% src="reactutn.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="https://youtu.be/kZGMsQIA8Ws" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
     </p>       
 </td>
+  
 <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
         <img align="center" width=100% src="campusutn.jpg"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
      </p>       
 </td>
   
@@ -68,7 +70,7 @@ Saludos cordiales.
         <img align="center" width=100% src="empeceaprogramar.png" alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
     </p>       
 </td>
 
@@ -78,7 +80,7 @@ Saludos cordiales.
         <img align="center" width=100% src="harvard.png" alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
     </p>       
 </td>
   

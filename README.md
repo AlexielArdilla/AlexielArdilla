@@ -1,4 +1,4 @@
-![imagen de portada Github](banner_github33.jpg)
+![imagen de portada Github](banner_github133.jpg)
 
 <h2 align="center">Hola mundo. Soy Alejandro ✨</h2>
 

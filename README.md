@@ -29,7 +29,7 @@ Saludos cordiales.
 
 <h3>Alexx</h3></p>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">

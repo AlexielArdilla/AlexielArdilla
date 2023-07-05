@@ -39,7 +39,7 @@ Saludos cordiales.
 
 <!--Prueba-->
 <div id="youtube">
-<h2 >Algunos videos sobre IT de mi canal de Youtube👨🏻‍💻</h2>
+<h2 align="center">Algunos videos sobre IT de mi canal de Youtube👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">

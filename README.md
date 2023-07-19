@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@AlekseiArdilla" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
 <a href="https://linkedin.com/in/alejandro-gonzalo-vera" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alejandrovera"/></a>
-<a href="https://fb.com/AlexxPerroArdilla" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="alejandrovera"  /></a>
+<a href="https://www.facebook.com/alejandro.gonzalo.vera.udemy" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="alejandrovera"  /></a>
   </p>
 <br>
 

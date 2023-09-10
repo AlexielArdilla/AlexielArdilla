@@ -13,6 +13,8 @@
 
 🔥 Me destaco en varios campos profesionales. La programación, la enseñanza online (múltiples áreas pueden ver en mi linktree) y presencial de Inglés y Guitarra. 
 
+☣ Enseño en Udemy.com, en 17 cursos de los más diversos temas, con más de 41.000 alumnos
+
 🎓 Aprobé la diplomatura **Professional Full-Stack Developer en la UTN** con la nota más alta en los tres cursos que la componen. También estoy haciendo El curso de **Inglés del Centro Universitario de Idiomas de la UBA nivel B2** (actualizado: Lo hice en 2022 y hoy sept 2023 vuelvo a hacerlo para seguir mejorando). Otros varios cursos de Udemy de programación, marketing, PNL entre otras cosas.
 
 🚀 Mi objetivo es innovar, encontrar algo que no haya sido visto y desarrollarlo, un software, un framework, alguna modalidad de coding. 

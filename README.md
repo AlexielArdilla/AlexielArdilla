@@ -11,23 +11,15 @@
 
 <p align="center">
 
-🔥 Me destaco en varios campos profesionales. La programación, la enseñanza online (múltiples áreas pueden ver en mi linktree) y presencial de Inglés y Guitarra. 
+¡Hola! Soy Alexx, un apasionado profesional con una formación diversa y una profunda vocación por el aprendizaje continuo y el desarrollo personal y profesional. 
 
-☣ Enseño en Udemy.com, en 17 cursos de los más diversos temas, con más de 43.000 alumnos
+Soy Experto Universitario en Ethical Hacking certificado por la Universidad Tecnológica Nacional (UTN), lo que me ha permitido adquirir habilidades avanzadas en ciberseguridad y protección de sistemas informáticos. Actualmente, comparto mis conocimientos y experiencias como instructor en Udemy.com, donde disfruto de la oportunidad de ayudar a otros a desarrollarse en el fascinante mundo de la tecnología y la seguridad digital.
 
-🎓 Aprobé la diplomatura **Professional Full-Stack Developer en la UTN** con la nota más alta en los tres cursos que la componen. También estoy haciendo El curso de **Inglés del Centro Universitario de Idiomas de la UBA nivel B2** (actualizado: Lo hice en 2022 y hoy sept 2023 vuelvo a hacerlo para seguir mejorando). Otros varios cursos de Udemy de programación, marketing, PNL entre otras cosas.
+Además de mi inclinación por la tecnología, también tengo un fuerte interés en el ámbito social y el bienestar humano. Soy Experto Universitario en Counseling y Practicante de Programación Neurolingüística (NLP Practitioner), entre otras certificaciones. Estas credenciales reflejan mi dedicación a entender y mejorar la dinámica humana, tanto a nivel individual como grupal.
 
-🚀 Mi objetivo es innovar, encontrar algo que no haya sido visto y desarrollarlo, un software, un framework, alguna modalidad de coding. 
+Me apasiona estudiar temáticas relacionadas con lo social y la psicología, ya que creo firmemente en el poder del conocimiento para generar cambios positivos en la vida de las personas. Mi enfoque proactivo y conciliador en las dinámicas de grupo me ha permitido colaborar de manera efectiva en equipos diversos, siempre buscando el crecimiento colectivo y el bienestar común.
 
-☎️ También me interesa lo social, es por eso que estudio para counselor (actualizado: ya terminé el curso, aprobado), soy también NLP practitioner certificado. Amo estudiar temáticas relacionadas a lo social y a la psicología, y me encanta ser proactivo y conciliador en las dinámicas de grupo.
-
-💎 Síganme o agréguenme si lo desean en linkedIn: https://www.linkedin.com/in/alejandro-gonzalo-vera/
-
-❌ No me encuentro en busca de empleo actualmente.
-
-💯 https://linktr.ee/alexielardilla
-
-Saludos cordiales.
+En resumen, mi carrera es un reflejo de mi deseo constante de aprender, enseñar y aplicar mis conocimientos en diferentes áreas para contribuir a un entorno más seguro y comprensivo. Estoy siempre en busca de nuevas oportunidades para crecer y colaborar en proyectos que marquen la diferencia.
 
 <h3>Alexx</h3></p>
 

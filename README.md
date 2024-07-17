@@ -50,31 +50,31 @@ En resumen, mi carrera es un reflejo de mi deseo constante de aprender, enseñar
   
 <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/ueIsyJV4vkA" title="Go to Source">
-        <img align="center" width=100% src="top10.png"   alt="VIDEO" /></a>
+     <a href="https://youtu.be/I5KALz2E6uw" title="Go to Source">
+        <img align="center" width=100% src="ethicalhackingmsf.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/ueIsyJV4vkA" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
+        <a href="https://youtu.be/I5KALz2E6uw" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
      </p>       
 </td>
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/vwyqHsUkwgk" title="Go to Source">
-        <img align="center" width=100% src="empeceaprogramar.png" alt="VIDEO" /></a>
+     <a href="https://youtu.be/Fuii0ibbHDI" title="Go to Source">
+        <img align="center" width=100% src="javaSEcompleto.png" alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/vwyqHsUkwgk" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
+        <a href="https://youtu.be/Fuii0ibbHDI" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
     </p>       
 </td>
 
    <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/dMzrJKXb1d8" title="Go to Source">
-        <img align="center" width=100% src="harvard.png" alt="VIDEO" /></a>
+     <a href="https://youtu.be/ezV5Fv_x6zg" title="Go to Source">
+        <img align="center" width=100% src="pythondesdecero.png" alt="VIDEO" /></a>
       </p>
     <p align="center">
-        <a href="https://youtu.be/dMzrJKXb1d8" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
+        <a href="https://youtu.be/ezV5Fv_x6zg" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
     </p>       
 </td>
   

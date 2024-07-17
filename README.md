@@ -1,6 +1,6 @@
  <a href="https://www.youtube.com/@AlekseiArdilla">![imagen de portada Github](paraEHackingGithub.png)</a>
 
-<h2 align="center">Hola mundo. Soy Alejandro ✨</h2>
+<h2 align="center">Hello world! I'm Alejandro ✨</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/@AlekseiArdilla" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
@@ -11,9 +11,7 @@
 
 <p align="center">
 
-# GitHub Presentation
-
-## About Me
+# About Me
 
 Hello! I'm Alejandro G Vera, a passionate and dedicated professional with a unique blend of expertise in both technology and human dynamics. My journey in the tech world began with an intensive focus on ethical hacking and full-stack development, which I pursued through comprehensive programs at the Universidad Tecnológica Nacional (UTN). Here are some highlights of my educational background and professional credentials:
 

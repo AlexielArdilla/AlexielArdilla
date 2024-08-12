@@ -11,9 +11,7 @@
 
 <p align="center">
 
-# GitHub Presentation
-
-## About Me
+# About Me
 
 Hello! I'm Alejandro G Vera, a passionate and dedicated professional with a unique blend of expertise in both technology and human dynamics. My journey in the tech world began with an intensive focus on ethical hacking and full-stack development, which I pursued through comprehensive programs at the Universidad Tecnológica Nacional (UTN). Here are some highlights of my educational background and professional credentials:
 

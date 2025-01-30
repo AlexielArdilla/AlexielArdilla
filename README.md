@@ -1,4 +1,4 @@
- <a href="https://www.youtube.com/@AlekseiArdilla">![imagen de portada Github](Portada_canva_alexx2.png)</a>
+ <a href="https://www.youtube.com/@AlekseiArdilla">![imagen de portada Github](Portada_coder_github.png)</a>
 
 <h2 align="center">Hola mundo! Soy Alejandro ✨</h2>
 

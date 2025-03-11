@@ -13,19 +13,17 @@
 
 # Sobre mí  
 
-¡Hola y bienvenidos a mi perfil de GitHub! Soy un desarrollador de software con experiencia en desarrollo FullStack y ciberseguridad. Mi enfoque está en la creación de soluciones eficientes, seguras y escalables, aplicando buenas prácticas de desarrollo y optimización de sistemas. Además, tengo una sólida trayectoria en la enseñanza, habiendo capacitado a más de 50,000 estudiantes en Udemy en programación, seguridad informática y mejores prácticas tecnológicas.  
+¡Hola y bienvenidos a mi perfil de GitHub! Soy un desarrollador de software con experiencia en desarrollo FullStack y ciberseguridad. Mi enfoque está en la creación de soluciones eficientes, seguras y escalables, aplicando buenas prácticas de desarrollo. Además, tengo una sólida trayectoria en la enseñanza, habiendo capacitado a más de 50,000 estudiantes en Udemy en programación, seguridad informática y mejores prácticas tecnológicas.  
 
 ## 🚀 Habilidades y Tecnologías  
 
 - **Desarrollo FullStack:** JavaScript (Node.js, React), Python, PHP  
 - **Bases de Datos:** MySQL, PostgreSQL, MongoDB  
-- **Ciberseguridad:** Ethical Hacking, OWASP, gestión de vulnerabilidades  
-- **Infraestructura y DevOps:** Docker, Linux, CI/CD  
-- **Metodologías:** Agile, Scrum, TDD  
+- **Ciberseguridad:** Ethical Hacking, pentesting, gestión de vulnerabilidades  
 
 ## 🎓 Formación Académica  
 
-- **Licenciatura en Gestión de Tecnologías de la Información** – UNPAZ  
+- **Licenciatura en Gestión de Tecnologías de la Información** – UNPAZ (no completa aún) 
 - **Professional FullStack Developer** – UTN  
 - **Experto Universitario en Ethical Hacking** – UTN  
 - **Ciberseguridad** – Google (Coursera)  
@@ -33,7 +31,7 @@
 
 ## 💼 Experiencia Profesional  
 
-He trabajado como **freelancer** en proyectos de desarrollo web y ciberseguridad, creando aplicaciones robustas y seguras. Mi experiencia también incluye la enseñanza en línea, donde he desarrollado cursos prácticos que han ayudado a miles de estudiantes a mejorar sus habilidades en programación y seguridad informática.  
+He trabajado como **freelancer** en proyectos de desarrollo web (maquetación y fullstack) y ciberseguridad, creando aplicaciones robustas y seguras. Mi experiencia principal incluye la enseñanza en línea, donde he desarrollado cursos prácticos que han ayudado a miles de estudiantes a mejorar sus habilidades en programación y seguridad informática.  
 
 ## 💡 Filosofía y Objetivos  
 

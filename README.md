@@ -17,7 +17,7 @@
 
 ## 🚀 Habilidades y Tecnologías  
 
-- **Desarrollo FullStack:** JavaScript (Node.js, React), Python, PHP  
+- **Desarrollo FullStack:** JavaScript (Node.js, React), Python, JavaEE  
 - **Bases de Datos:** MySQL, PostgreSQL, MongoDB  
 - **Ciberseguridad:** Ethical Hacking, pentesting, gestión de vulnerabilidades  
 

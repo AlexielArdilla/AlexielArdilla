@@ -11,34 +11,44 @@
 
 <p align="center">
 
-# Sobre mí  
+### About Me
 
-¡Hola y bienvenidos a mi perfil de GitHub! Soy un desarrollador de software con experiencia en desarrollo FullStack y ciberseguridad. Mi enfoque está en la creación de soluciones eficientes, seguras y escalables, aplicando buenas prácticas de desarrollo. Además, tengo una sólida trayectoria en la enseñanza, habiendo capacitado a más de 50,000 estudiantes en Udemy en programación, seguridad informática y mejores prácticas tecnológicas.  
+👋 Hi! I’m Alejandro Vera, a multidisciplinary professional with a strong background in software development, cybersecurity, music, and literature. I focus on continuous learning, technical excellence, and applied creativity.
 
-## 🚀 Habilidades y Tecnologías  
+💻 **Tech Education**
 
-- **Desarrollo FullStack:** JavaScript (Node.js, React), Python, JavaEE  
-- **Bases de Datos:** MySQL, PostgreSQL, MongoDB  
-- **Ciberseguridad:** Ethical Hacking, pentesting, gestión de vulnerabilidades  
+* University Programming Analyst (UNPAZ)
+* UTN: *University Expert in Ethical Hacking*, *Professional FullStack Developer* (React, Angular, HTML, CSS)
+* Google (Coursera): *Cybersecurity Certificate*
+* Fundación Telefónica: Completed *Cybersecurity ED 18* course
+* UTN: *Intermediate Python*
+* Codecademy: Completed the *Fullstack Engineer Career Path*
+* And many other courses you can find below.
 
-## 🎓 Formación Académica  
+🛡️ **Next Career Goals**
+In the coming months, I’ll be refining my *Java Core* skills and diving deeper into the *Spring Framework* ecosystem, with the goal of working as a *Backend Developer*.
 
-- **Licenciatura en Gestión de Tecnologías de la Información** – UNPAZ (no completa aún) 
-- **Professional FullStack Developer** – UTN  
-- **Experto Universitario en Ethical Hacking** – UTN  
-- **Ciberseguridad** – Google (Coursera)  
-- **Ciberseguridad y Seguridad de la Información** – Edutin  
+📚 **Artistic and Humanistic Side**
 
-## 💼 Experiencia Profesional  
+* Guitar teacher specialized in *Jazz and Blues* 🎸
+* Literary workshop coordinator ✍️
+* Author of **16 books** published on Amazon KDP 📘
 
-He trabajado como **freelancer** en proyectos de desarrollo web (maquetación y fullstack) y ciberseguridad, creando aplicaciones robustas y seguras. Mi experiencia principal incluye la enseñanza en línea, donde he desarrollado cursos prácticos que han ayudado a miles de estudiantes a mejorar sus habilidades en programación y seguridad informática.  
+🌐 **Languages**
 
-## 💡 Filosofía y Objetivos  
+* General English level: **C1** | Spoken English: **B1**, very fluent
+* FCE (First Certificate in English) – *Cambridge ESOL* certified
 
-Creo en la tecnología como motor de innovación y en el código limpio y seguro como base para el desarrollo eficiente. Me motiva el aprendizaje continuo y la mejora constante, por lo que en GitHub comparto proyectos, contribuciones y recursos para la comunidad de desarrolladores.  
+🧠 **Key Skills**
 
-📬 **¡Siempre abierto a colaborar y aprender!**  
+* Exceptionally fast learner ⚡
+* Highly adaptable to changes and dynamic environments 🔄
+* Detail-oriented, organized, and committed to quality 🎯
+* Constantly learning about *Artificial Intelligence* and emerging technologies 🤖
 
+🚀 I’m actively looking for new job opportunities, preferably **100% remote**. If your company values versatility, commitment, and a passion for learning, I’d love to connect.
+
+📬 Open to proposals and collaborations!
 
 <h3>Alexx</h3></p>
 

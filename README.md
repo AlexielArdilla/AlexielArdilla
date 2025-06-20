@@ -23,7 +23,7 @@
 * Fundación Telefónica: Completed *Cybersecurity ED 18* course
 * UTN: *Intermediate Python*
 * Codecademy: Completed the *Fullstack Engineer Career Path*
-* And many other courses you can find below.
+* And many other courses you can find on my LinkedIn profile.
 
 🛡️ **Next Career Goals**
 In the coming months, I’ll be refining my *Java Core* skills and diving deeper into the *Spring Framework* ecosystem, with the goal of working as a *Backend Developer*.

@@ -112,4 +112,4 @@ In the coming months, I’ll be refining my *Java Core* skills and diving deeper
   </div>
 <br>
 <br><br>
-<h1 align="center">Mis projectos favoritos:</h1>
+<h1 align="center">Mi pet projects:</h1>

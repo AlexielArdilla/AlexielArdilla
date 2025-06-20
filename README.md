@@ -1,6 +1,6 @@
  <a href="https://www.youtube.com/@AlekseiArdilla">![imagen de portada Github](Portada_coder_github.png)</a>
 
-<h2 align="center">Hola mundo! Soy Alejandro ✨</h2>
+<h2 align="center">Hello World! I'm Alejandro ✨</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/@AlekseiArdilla" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>

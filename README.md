@@ -52,7 +52,7 @@ In the coming months, I’ll be refining my *Java Core* skills and diving deeper
 
 <h3>Alexx</h3></p>
 
-<h2 align="center">Tecnologías conocidas👨🏻‍💻</h2>
+<h2 align="center">Known Technologies👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">

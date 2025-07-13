@@ -32,7 +32,7 @@ In the coming months, I’ll be refining my *Java Core* skills and diving deeper
 
 * Guitar teacher specialized in *Jazz and Blues* 🎸
 * Literary workshop coordinator ✍️
-* Author of **16 books** published on Amazon KDP 📘
+* Author of **31 books** published on Amazon KDP 📘
 
 🌐 **Languages**
 

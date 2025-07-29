@@ -36,7 +36,7 @@ In the coming months, I’ll be refining my *Java Core* skills and diving deeper
 
 🌐 **Languages**
 
-* General English level: **C1** | Spoken English: **B1**, very fluent
+* General English level: **C1** | Spoken English: **B2**, very fluent
 * FCE (First Certificate in English) – *Cambridge ESOL* certified
 
 🧠 **Key Skills**

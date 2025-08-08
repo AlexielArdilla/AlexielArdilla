@@ -1,4 +1,4 @@
- <a href="https://www.youtube.com/@AlekseiArdilla">![imagen de portada Github](Portada_coder_github.png)</a>
+ <a href="https://www.youtube.com/@AlekseiArdilla">![imagen de portada Github](Banner_github_hacker_2.jpg)</a>
 ---
 
 ## 🕶️ About Me – The Code Phantom

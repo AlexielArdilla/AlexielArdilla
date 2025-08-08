@@ -3,7 +3,7 @@
 
 ## 🕶️ About Me – The Code Phantom
 
-I am **Alejandro Vera** — a multidisciplinary architect of code, a digital infiltrator fluent in the dialects of machines, and an artist of controlled chaos.
+I am **Alejandro G Vera** — a multidisciplinary architect of code, a digital infiltrator fluent in the dialects of machines, and an artist of controlled chaos.
 I don’t just write code… I bend it to my will.
 
 💻 **Cybernetic Arsenal**

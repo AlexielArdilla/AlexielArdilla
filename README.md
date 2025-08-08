@@ -1,56 +1,56 @@
  <a href="https://www.youtube.com/@AlekseiArdilla">![imagen de portada Github](Portada_coder_github.png)</a>
 
-<h2 align="center">Hello World! I'm Alejandro ✨</h2>
+Here’s your GitHub *About Me* rewritten with a darker, more “black-hat mystique” tone, optimized for SEO, but still professional enough to intrigue recruiters or tech enthusiasts while giving off that “dangerous but brilliant” vibe:
 
-<p align="center">
-  <a href="https://www.youtube.com/@AlekseiArdilla" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@AlekseiArdilla"  /></a>
-<a href="https://linkedin.com/in/alejandro-gonzalo-vera" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alejandrovera"/></a>
-<a href="https://www.facebook.com/alejandro.gonzalo.vera.udemy" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="alejandrovera"  /></a>
-  </p>
-<br>
+---
 
-<p align="center">
+## 🕶️ About Me – The Code Phantom
 
-### About Me
+I am **Alejandro Vera** — a multidisciplinary architect of code, a digital infiltrator fluent in the dialects of machines, and an artist of controlled chaos.
+I don’t just write code… I bend it to my will.
 
-👋 Hi! I’m Alejandro Vera, a multidisciplinary professional with a strong background in software development, cybersecurity, music, and literature. I focus on continuous learning, technical excellence, and applied creativity.
+💻 **Cybernetic Arsenal**
 
-💻 **Tech Education**
+* University Programming Analyst (**UNPAZ**)
+* **UTN**: University Expert in Ethical Hacking | Professional FullStack Developer (React, Angular, HTML, CSS, JavaScript)
+* Google (Coursera): **Cybersecurity Specialist** Certified
+* Fundación Telefónica: Cybersecurity ED 18 Graduate
+* UTN: Intermediate Python Tamer
+* Codecademy: **Fullstack Engineer** Career Path Complete
+* A collection of other technical conquests documented on my LinkedIn.
 
-* University Programming Analyst (UNPAZ)
-* UTN: *University Expert in Ethical Hacking*, *Professional FullStack Developer* (React, Angular, HTML, CSS)
-* Google (Coursera): *Cybersecurity Certificate*
-* Fundación Telefónica: Completed *Cybersecurity ED 18* course
-* UTN: *Intermediate Python*
-* Codecademy: Completed the *Fullstack Engineer Career Path*
-* And many other courses you can find on my LinkedIn profile.
+⚔️ **Special Ops in Code & Security**
 
-🛡️ **Next Career Goals**
-In the coming months, I’ll be refining my *Java Core* skills and diving deeper into the *Spring Framework* ecosystem, with the goal of working as a *Backend Developer*.
+* **Offensive Security & Ethical Hacking** – Skilled in penetration testing, reconnaissance, and system exploitation (for the right side of the law… mostly)
+* **Full-Stack Warfare** – From front-end illusions to back-end fortresses
+* **Python Sorcery** – Crafting tools, automation scripts, and digital traps
+* Constantly evolving with **AI, machine learning**, and bleeding-edge tech.
 
-📚 **Artistic and Humanistic Side**
+🎸 **The Human Side (If You Can Call It That)**
 
-* Guitar teacher specialized in *Jazz and Blues* 🎸
-* Literary workshop coordinator ✍️
-* Author of **31 books** published on Amazon KDP 📘
+* Jazz & Blues guitarist – I improvise like I code: no rules, just flow
+* Literary tactician – 31 books on Amazon KDP, each one a different kind of bullet
+* Workshop coordinator – Shaping minds with stories, strategies, and riffs
 
-🌐 **Languages**
+🌐 **Languages of Influence**
 
-* General English level: **C1** | Spoken English: **B2**, very fluent
-* FCE (First Certificate in English) – *Cambridge ESOL* certified
+* English: C1 overall | Spoken B2 – Certified by Cambridge (FCE)
+* Fluent in Spanish & the unspoken language of network packets
 
-🧠 **Key Skills**
+🧠 **Core Skills**
 
-* Exceptionally fast learner ⚡
-* Highly adaptable to changes and dynamic environments 🔄
-* Detail-oriented, organized, and committed to quality 🎯
-* Constantly learning about *Artificial Intelligence* and emerging technologies 🤖
+* Ruthless adaptability in hostile environments
+* Obsessive attention to detail (bugs fear me)
+* Fast learner – I weaponize new knowledge within hours
+* Versatility across multiple frameworks, languages, and infiltration vectors
 
-🚀 I’m actively looking for new job opportunities, preferably **100% remote**. If your company values versatility, commitment, and a passion for learning, I’d love to connect.
+🚀 **The Mission**
+Currently refining my **Java Core** & **Spring Framework** skills, aiming for backend dominance.
+Always hunting for **100% remote** missions where I can operate without borders.
 
-📬 Open to proposals and collaborations!
+📬 **If your project requires precision, creativity, and the nerve to go where others won’t — let’s talk.**
 
-<h3>Alexx</h3></p>
+---
 
 <h2 align="center">Known Technologies👨🏻‍💻</h2>
 <!--tech stack icons-->

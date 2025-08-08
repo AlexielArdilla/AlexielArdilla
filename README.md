@@ -1,7 +1,4 @@
  <a href="https://www.youtube.com/@AlekseiArdilla">![imagen de portada Github](Portada_coder_github.png)</a>
-
-Here’s your GitHub *About Me* rewritten with a darker, more “black-hat mystique” tone, optimized for SEO, but still professional enough to intrigue recruiters or tech enthusiasts while giving off that “dangerous but brilliant” vibe:
-
 ---
 
 ## 🕶️ About Me – The Code Phantom

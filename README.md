@@ -26,7 +26,7 @@ I don’t just write code… I bend it to my will.
 🎸 **The Human Side (If You Can Call It That)**
 
 * Jazz & Blues guitarist – I improvise like I code: no rules, just flow
-* Literary tactician – 31 books on Amazon KDP, each one a different kind of bullet
+* Literary tactician – 47 books on Amazon KDP, each one a different kind of bullet
 * Workshop coordinator – Shaping minds with stories, strategies, and riffs
 
 🌐 **Languages of Influence**

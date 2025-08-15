@@ -45,7 +45,7 @@ I don’t just write code… I bend it to my will.
 Currently refining my **Java Core** & **Spring Framework** skills, aiming for backend dominance.
 Always hunting for **100% remote** missions where I can operate without borders.
 
-📬 **If your project requires precision, creativity, and the nerve to go where others won’t — let’s talk.**
+📬 **These days, I am fully dedicated to online training and the creation of multimedia content.**
 
 ---
 

@@ -42,8 +42,7 @@ I don’t just write code… I bend it to my will.
 * Versatility across multiple frameworks, languages, and infiltration vectors
 
 🚀 **The Mission**
-Currently refining my **Java Core** & **Spring Framework** skills, aiming for backend dominance.
-Always hunting for **100% remote** missions where I can operate without borders.
+My mission these days is to train students on Udemy.com, with more than 57,000 active learners, create high-quality multimedia content, and develop my project for a programming language called Gipsy, which resembles pseudocode.
 
 📬 **These days, I am fully dedicated to online training and the creation of multimedia content.**
 

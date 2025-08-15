@@ -42,6 +42,7 @@ I don’t just write code… I bend it to my will.
 * Versatility across multiple frameworks, languages, and infiltration vectors
 
 🚀 **The Mission**
+
 My mission these days is to train students on Udemy.com, with more than 57,000 active learners, create high-quality multimedia content, and develop my project for a programming language called Gipsy, which resembles pseudocode.
 
 📬 **These days, I am fully dedicated to online training and the creation of multimedia content.**

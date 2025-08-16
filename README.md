@@ -3,6 +3,7 @@
 **Creador de Contenido (KDP Select) | Instructor en Udemy | Ciberseguridad | Instructor de Ethical Hacking | Full-Stack Dev | Programación (Java, Python, JavaScript) | Desarrollo de Software | Autor Técnico | Educación Online**
 
 🕶️ **Sobre mí – AlexielArdilla**
+
 Soy **Alejandro G. Vera**, un profesional de la tecnología y creador de contenido con un fuerte enfoque en la **publicación digital** y la **educación online**. Mis dos principales áreas de especialización son:
 
 📚 **Creación de Contenido para KDP Select** – Autor de múltiples libros sobre **ciberseguridad, ethical hacking, informática forense y programación**, distribuidos mundialmente a través de Amazon Kindle.

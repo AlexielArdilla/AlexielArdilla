@@ -1,6 +1,6 @@
  <a href="https://www.youtube.com/@AlekseiArdilla">![imagen de portada Github](Banner_github_hacker_2.jpg)</a>
 ---
-Content Creator (KDP Select) | Udemy Instructor | Cybersecurity | Ethical Hacking Instructor | Full-Stack Deve | Programming (Java, Python, JavaScript) | Software Development | Technical Author | Online Education
+Content Creator (KDP Select) | Udemy Instructor | Cybersecurity | Ethical Hacking Instructor | Full-Stack Dev | Programming (Java, Python, JavaScript) | Software Development | Technical Author | Online Education
 
 ## 🕶️ About Me – AlexielArdilla
 ---

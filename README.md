@@ -24,11 +24,12 @@ Junto a estas áreas principales, aporto una sólida formación académica como 
 🌍 **Misión Profesional**
 Mi misión es **combinar la experiencia técnica con la difusión del conocimiento**. A través de la publicación de libros, el desarrollo de contenido educativo y la enseñanza a miles de estudiantes, busco hacer que los temas complejos en programación y ciberseguridad sean más accesibles para estudiantes de todo el mundo.
 
-📈 **Palabras Clave & Enfoque (SEO-friendly)**
-KDP Select · Educación Online · Instructor en Udemy · Ciberseguridad · Ethical Hacking · Full-Stack Developer · Programación · Publicación Digital · Autor Técnico · Desarrollo de Software
-
 📬 Actualmente, estoy plenamente dedicado a la **capacitación online** y a la **creación de contenido multimedia**.
 
+---
+📈 **Palabras Clave & Enfoque (SEO-friendly)**
+
+KDP Select · Educación Online · Instructor en Udemy · Ciberseguridad · Ethical Hacking · Full-Stack Developer · Programación · Publicación Digital · Autor Técnico · Desarrollo de Software
 ---
 
 <h2 align="center">Known Technologies👨🏻‍💻</h2>

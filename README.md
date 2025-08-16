@@ -1,49 +1,32 @@
  <a href="https://www.youtube.com/@AlekseiArdilla">![imagen de portada Github](Banner_github_hacker_2.jpg)</a>
 ---
+Content Creator (KDP Select) | Udemy Instructor | Cybersecurity | Ethical Hacking Instructor | Full-Stack Deve | Programming (Java, Python, JavaScript) | Software Development | Technical Author | Online Education
 
 ## 🕶️ About Me – AlexielArdilla
+---
+I am **Alejandro G. Vera**, a technology professional and content creator with a strong focus on **digital publishing** and **online education**. My two main areas of expertise are:
 
-I am **Alejandro G Vera** — a multidisciplinary architect of code, a digital infiltrator fluent in the dialects of machines, and an artist of controlled chaos.
-I don’t just write code… I bend it to my will.
+* 📚 **Content Creation for KDP Select** – Author of multiple books on cybersecurity, ethical hacking, digital forensics, and programming, distributed worldwide through Amazon Kindle.
+* 🎓 **Teaching on Udemy.com** – Instructor with more than **57,000 students enrolled globally**, specializing in programming, cybersecurity, and full-stack development.
 
-💻 **Cybernetic Arsenal**
+Alongside these core areas, I bring a solid academic background as an **Analista Programador Universitario (UNPAZ)**, complemented by professional certifications in:
 
-* University Programming Analyst (**UNPAZ**)
-* **UTN**: University Expert in Ethical Hacking | Professional FullStack Developer (React, Angular, HTML, CSS, JavaScript)
-* Google (Coursera): **Cybersecurity Specialist** Certified
-* Fundación Telefónica: Cybersecurity ED 18 Graduate
-* UTN: Intermediate Python Tamer
-* Codecademy: **Fullstack Engineer** Career Path Complete
-* A collection of other technical conquests documented on my LinkedIn.
+* 🔐 **Cybersecurity & Ethical Hacking** – UTN, Google (Coursera), Edutín, Codecademy, Udemy.
+* 💻 **Full-Stack Development** – UTN and Codecademy.
 
-⚔️ **Special Ops in Code & Security**
+### 🛠️ Technical Skills
 
-* **Offensive Security & Ethical Hacking** – Skilled in penetration testing, reconnaissance, and system exploitation (for the right side of the law… mostly)
-* **Full-Stack Warfare** – From front-end illusions to back-end fortresses
-* **Python Sorcery** – Crafting tools, automation scripts, and digital traps
-* Constantly evolving with **AI, machine learning**, and bleeding-edge tech.
+* **Programming Languages:** Java, Python, JavaScript, and more.
+* **Web & Software Development:** Full-stack applications, APIs, and system integration.
+* **Cybersecurity Expertise:** Ethical hacking, penetration testing, and digital forensics.
 
-🎸 **The Human Side (If You Can Call It That)**
+### 🌍 Professional Mission
 
-* Jazz & Blues guitarist – I improvise like I code: no rules, just flow
-* Literary tactician – 49 books on Amazon KDP, each one a different kind of bullet
-* Workshop coordinator – Shaping minds with stories, strategies, and riffs
+My mission is to combine **technical expertise** with **knowledge sharing**. By publishing books, developing educational content, and teaching thousands of students, I aim to make complex topics in **programming** and **cybersecurity** more accessible to learners worldwide.
 
-🌐 **Languages of Influence**
+### 📈 Keywords & Focus (SEO-friendly)
 
-* English: C1 overall | Spoken B2 – Certified by Cambridge (FCE)
-* Fluent in Spanish & the unspoken language of network packets
-
-🧠 **Core Skills**
-
-* Ruthless adaptability in hostile environments
-* Obsessive attention to detail (bugs fear me)
-* Fast learner – I weaponize new knowledge within hours
-* Versatility across multiple frameworks, languages, and infiltration vectors
-
-🚀 **The Mission**
-
-My mission these days is to train students on Udemy.com, with more than 57,000 active learners, create high-quality multimedia content, and develop my project for a programming language called Gipsy, which resembles pseudocode.
+KDP Select · Online Teaching · Udemy Instructor · Cybersecurity · Ethical Hacking · Full-Stack Developer · Programming · Digital Publishing · Technical Author · Software Development
 
 📬 **These days, I am fully dedicated to online training and the creation of multimedia content.**
 

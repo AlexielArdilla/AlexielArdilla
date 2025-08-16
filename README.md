@@ -1,34 +1,31 @@
  <a href="https://www.youtube.com/@AlekseiArdilla">![imagen de portada Github](wall_github_2025.png)</a>
----
-Content Creator (KDP Select) | Udemy Instructor | Cybersecurity | Ethical Hacking Instructor | Full-Stack Dev | Programming (Java, Python, JavaScript) | Software Development | Technical Author | Online Education
 
-## 🕶️ About Me – AlexielArdilla
----
-I am **Alejandro G. Vera**, a technology professional and content creator with a strong focus on **digital publishing** and **online education**. My two main areas of expertise are:
+**Creador de Contenido (KDP Select) | Instructor en Udemy | Ciberseguridad | Instructor de Ethical Hacking | Full-Stack Dev | Programación (Java, Python, JavaScript) | Desarrollo de Software | Autor Técnico | Educación Online**
 
-* 📚 **Content Creation for KDP Select** – Author of multiple books on cybersecurity, ethical hacking, digital forensics, and programming, distributed worldwide through Amazon Kindle.
-* 🎓 **Teaching on Udemy.com** – Instructor with more than **57,000 students enrolled globally**, specializing in programming, cybersecurity, and full-stack development.
+🕶️ **Sobre mí – AlexielArdilla**
+Soy **Alejandro G. Vera**, un profesional de la tecnología y creador de contenido con un fuerte enfoque en la **publicación digital** y la **educación online**. Mis dos principales áreas de especialización son:
 
-Alongside these core areas, I bring a solid academic background as an **Analista Programador Universitario (UNPAZ)**, complemented by professional certifications in:
+📚 **Creación de Contenido para KDP Select** – Autor de múltiples libros sobre **ciberseguridad, ethical hacking, informática forense y programación**, distribuidos mundialmente a través de Amazon Kindle.
+🎓 **Enseñanza en Udemy.com** – Instructor con más de **57,000 estudiantes inscritos a nivel global**, especializado en programación, ciberseguridad y desarrollo full-stack.
 
-* 🔐 **Cybersecurity & Ethical Hacking** – UTN, Google (Coursera), Edutín, Codecademy, Udemy.
-* 💻 **Full-Stack Development** – UTN and Codecademy.
+Junto a estas áreas principales, aporto una sólida formación académica como **Analista Programador Universitario (UNPAZ)**, complementada con certificaciones profesionales en:
 
-### 🛠️ Technical Skills
+🔐 **Ciberseguridad & Ethical Hacking** – UTN, Google (Coursera), Edutín, Codecademy, Udemy.
+💻 **Full-Stack Development** – UTN y Codecademy.
 
-* **Programming Languages:** Java, Python, JavaScript, and more.
-* **Web & Software Development:** Full-stack applications, APIs, and system integration.
-* **Cybersecurity Expertise:** Ethical hacking, penetration testing, and digital forensics.
+🛠️ **Habilidades Técnicas**
 
-### 🌍 Professional Mission
+* **Lenguajes de Programación:** Java, Python, JavaScript, entre otros.
+* **Desarrollo Web & Software:** Aplicaciones full-stack, APIs e integración de sistemas.
+* **Expertise en Ciberseguridad:** Ethical hacking, pruebas de penetración e informática forense.
 
-My mission is to combine **technical expertise** with **knowledge sharing**. By publishing books, developing educational content, and teaching thousands of students, I aim to make complex topics in **programming** and **cybersecurity** more accessible to learners worldwide.
+🌍 **Misión Profesional**
+Mi misión es **combinar la experiencia técnica con la difusión del conocimiento**. A través de la publicación de libros, el desarrollo de contenido educativo y la enseñanza a miles de estudiantes, busco hacer que los temas complejos en programación y ciberseguridad sean más accesibles para estudiantes de todo el mundo.
 
-### 📈 Keywords & Focus (SEO-friendly)
+📈 **Palabras Clave & Enfoque (SEO-friendly)**
+KDP Select · Educación Online · Instructor en Udemy · Ciberseguridad · Ethical Hacking · Full-Stack Developer · Programación · Publicación Digital · Autor Técnico · Desarrollo de Software
 
-KDP Select · Online Teaching · Udemy Instructor · Cybersecurity · Ethical Hacking · Full-Stack Developer · Programming · Digital Publishing · Technical Author · Software Development
-
-📬 **These days, I am fully dedicated to online training and the creation of multimedia content.**
+📬 Actualmente, estoy plenamente dedicado a la **capacitación online** y a la **creación de contenido multimedia**.
 
 ---
 

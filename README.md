@@ -1,12 +1,12 @@
  <a href="https://www.youtube.com/@AlekseiArdilla">![imagen de portada Github](2_wall_github_2025.png)</a>
 
-**Creador de Contenido (KDP Select) | Instructor en Udemy | Ciberseguridad | Instructor de Ethical Hacking | Full-Stack Dev | Programación (Java, Python, JavaScript) | Desarrollo de Software | Autor Técnico | Educación Online**
+**Creador de Contenido (KDP) | Instructor en Udemy | Ciberseguridad | Instructor de Ethical Hacking | Full-Stack Dev | Programación (Java, Python, JavaScript) | Desarrollo de Software | Autor Técnico | Educación Online**
 
 ## **Sobre mí – AlexielArdilla**
 
 Soy **Alejandro G. Vera**, un profesional de la tecnología y creador de contenido con un fuerte enfoque en la **publicación digital** y la **educación online**. Mis dos principales áreas de especialización son:
 
-📚 **Creación de Contenido para KDP Select** – Autor de múltiples libros sobre **ciberseguridad, ethical hacking, informática forense y programación**, distribuidos mundialmente a través de Amazon Kindle.
+📚 **Creación de Contenido para KDP** – Autor de múltiples libros sobre **ciberseguridad, ethical hacking, informática forense y programación**, distribuidos mundialmente a través de Amazon Kindle.
 🎓 **Enseñanza en Udemy.com** – Instructor con más de **57,000 estudiantes inscritos a nivel global**, especializado en programación, ciberseguridad y desarrollo full-stack.
 
 Junto a estas áreas principales, aporto una sólida formación académica como **Analista Programador Universitario (UNPAZ)**, complementada con certificaciones profesionales en:
@@ -29,7 +29,7 @@ Mi misión es **combinar la experiencia técnica con la difusión del conocimien
 ---
 📈 **Palabras Clave & Enfoque (SEO-friendly)**
 
-KDP Select · Educación Online · Instructor en Udemy · Ciberseguridad · Ethical Hacking · Full-Stack Developer · Programación · Publicación Digital · Autor Técnico · Desarrollo de Software
+KDP · Educación Online · Instructor en Udemy · Ciberseguridad · Ethical Hacking · Full-Stack Developer · Programación · Publicación Digital · Autor Técnico · Desarrollo de Software
 ---
 
 <h2 align="center">Known Technologies👨🏻‍💻</h2>

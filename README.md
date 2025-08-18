@@ -7,6 +7,7 @@
 Soy **Alejandro G. Vera**, un profesional de la tecnología y creador de contenido con un fuerte enfoque en la **publicación digital** y la **educación online**. Mis dos principales áreas de especialización son:
 
 📚 **Creación de Contenido para KDP Select** – Autor de más de 50 libros sobre **ciberseguridad, ethical hacking, informática forense y programación**, distribuidos mundialmente a través de Amazon Kindle y en papel.
+
 🎓 **Enseñanza en Udemy.com** – Instructor con más de **57,000 estudiantes inscriptos a nivel global**, especializado en programación, ciberseguridad y desarrollo full-stack.
 
 Junto a estas áreas principales, aporto una sólida formación académica como **Analista Programador Universitario (UNPAZ)**, complementada con certificaciones profesionales en:

@@ -1,6 +1,6 @@
  <a href="https://www.youtube.com/@AlekseiArdilla">![imagen de portada Github](wall_github_2025.png)</a>
 
-**Creador de Contenido KDP Select | Instructor en Udemy | Ciberseguridad | Instructor de Ethical Hacking | Full-Stack Dev | Programación (Java, Python, JavaScript) | Desarrollo de Software | Autor Técnico | Educación Online**
+**Creador de Contenido KDP Select | Instructor en Udemy | Ciberseguridad | Instructor de Ethical Hacking | Full-Stack Dev | Programación (Java, Python, JavaScript) | Desarrollo de Software | Autor Técnico | Educación Online | CEH(v12)**
 
 ## **Sobre mí – AlexielArdilla**
 
@@ -8,7 +8,7 @@ Soy **Alejandro G. Vera**, un profesional de la tecnología y creador de conteni
 
 📚 **Creación de Contenido para KDP Select** – Autor de más de 60 libros sobre **ciberseguridad, ethical hacking, informática forense y programación**, distribuidos mundialmente a través de Amazon Kindle y en papel.
 
-🎓 **Enseñanza en Udemy.com** – Instructor con más de **57,000 estudiantes inscriptos a nivel global**, especializado en programación, ciberseguridad y desarrollo full-stack.
+🎓 **Enseñanza en Udemy.com** – Instructor con más de **58,500 estudiantes inscriptos a nivel global**, especializado en programación, ciberseguridad y desarrollo full-stack.
 
 Junto a estas áreas principales, aporto una sólida formación académica como **Analista Programador Universitario (UNPAZ)**, complementada con certificaciones profesionales en:
 

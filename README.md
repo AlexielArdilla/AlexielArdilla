@@ -12,7 +12,7 @@ Soy **Alejandro G. Vera**, un profesional de la tecnología y creador de conteni
 
 Junto a estas áreas principales, aporto una sólida formación académica como **Analista Programador Universitario (UNPAZ)**, complementada con certificaciones profesionales en:
 
-🔐 **Ciberseguridad & Ethical Hacking** – UTN, Google (Coursera), Edutín, Codecademy, Udemy.
+🔐 **Ciberseguridad & Ethical Hacking - CEH(v12)** – UTN, Google (Coursera), Edutín, Codecademy, Udemy.
 
 💻 **Full-Stack Development** – UTN y Codecademy.
 

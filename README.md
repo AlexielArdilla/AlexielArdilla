@@ -1,4 +1,4 @@
-![`Portada`](wall_github_2025.png)
+![`Portada`](WallGithub.png)
 
 # Escritor y programador argentino
 

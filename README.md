@@ -2,7 +2,7 @@
 
 # 👨‍💻 Alejandro G. Vera | Ciberseguridad, Kali Linux y Programación
 
-💻 Soy autor técnico, desarrollador y especialista en **ciberseguridad, hacking ético, pentesting, Linux y programación aplicada a la seguridad informática**.
+💻 Soy autor técnico, desarrollador e investigador de **ciberseguridad, hacking ético, pentesting, Linux y programación aplicada a la seguridad informática**.
 
 🔐 Mi trabajo se centra en transformar conceptos complejos en contenidos técnicos, estructurados y orientados a la práctica. Investigo metodologías de auditoría, automatización, análisis de vulnerabilidades, seguridad ofensiva, ciberdefensa y desarrollo de laboratorios controlados.
 
@@ -18,7 +18,7 @@
 ☁️ Cloud Security, DevSecOps y seguridad de infraestructuras
 📊 Documentación técnica, evidencias y generación de informes
 
-## 📚 Mis libros tecnológicos (Algunos, Son más de 100!)
+## 📚 Mis libros tecnológicos (Algunos, Son más)
 
 ### 🐉 Experto en Kali Linux
 

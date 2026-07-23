@@ -23,35 +23,35 @@
 
 ## 📚 Mis libros tecnológicos (Algunos, Son más).
 
-### 🐉 Experto en Kali Linux
+## 🐉 Experto en Kali Linux
 
 Una guía práctica y progresiva orientada a convertir Kali Linux en una **workstation profesional de pentesting**. El libro pone el foco en la preparación del entorno, la organización de herramientas y la aplicación de una metodología técnica que permita trabajar con mayor precisión, seguridad y consistencia. ([Amazon][1])
 
-## Enlace de compra: https://a.co/d/0eDKacYe
+### Enlace de compra: https://a.co/d/0eDKacYe
 
-### 🔎 El proceso completo de Pentesting
+## 🔎 El proceso completo de Pentesting
 
 Una obra dedicada al ciclo integral de una evaluación de seguridad: planificación, definición del alcance, reconocimiento, análisis, validación técnica, explotación controlada, documentación y comunicación de resultados. Está planteada como una guía práctica y orientada a ejecutar auditorías de seguridad de principio a fin. ([Amazon][2])
 
-## Enlace de compra: https://a.co/d/058wmOU4
+### Enlace de compra: https://a.co/d/058wmOU4
 
-### 🤖 Ethical Hacking e Inteligencia Artificial
+## 🤖 Ethical Hacking e Inteligencia Artificial
 
 Un libro que conecta dos áreas decisivas para el futuro de la seguridad digital: el **hacking ético** y la **inteligencia artificial**. Explora cómo incorporar una mentalidad analítica y nuevas capacidades tecnológicas a los procesos de evaluación, automatización y protección de sistemas, con una propuesta especialmente accesible para perfiles junior y trainee. ([Amazon][3])
 
-## Enlace de compra: https://a.co/d/06BUsj7A
+### Enlace de compra: https://a.co/d/06BUsj7A
 
-### 🔐 El libro secreto de Kali Linux
+## 🔐 El libro secreto de Kali Linux
 
 Creado para usuarios de nivel intermedio que desean avanzar hacia una utilización más técnica de Kali Linux. Aborda el aprendizaje práctico, la metodología de análisis, el funcionamiento de herramientas de auditoría y el desarrollo de una mentalidad profesional, estructurada y responsable. ([LinkedIn][4])
 
-## Enlace de compra: https://a.co/d/08lzdQnu
+### Enlace de compra: https://a.co/d/08lzdQnu
 
-### 🕶️ El libro más asquerosamente completo del hacker
+## 🕶️ El libro más asquerosamente completo del hacker
 
 Una obra avanzada que profundiza en metodología profesional, seguridad operativa, Reglas de Engagement, OPSEC, cadena de custodia, coordinación con equipos SOC, threat modeling, priorización de vulnerabilidades, Cloud Security, IAM, Kubernetes, DevSecOps, threat hunting, análisis forense, respuesta a incidentes y riesgos relacionados con IA y modelos de lenguaje. ([LinkedIn][5])
 
-## Enlace de compra: https://a.co/d/0fuWxWcC
+### Enlace de compra: https://a.co/d/0fuWxWcC
 
 ## 🚀 Mi enfoque
 

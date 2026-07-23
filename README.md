@@ -1,4 +1,4 @@
-![`Portada`](portada.jpg)
+![`Portada`](wall3.jpg)
 
 # 👨‍💻 Alejandro G. Vera | Ciberseguridad, Kali Linux y Programación
 

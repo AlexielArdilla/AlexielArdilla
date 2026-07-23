@@ -21,7 +21,7 @@
 ☁️ Cloud Security, DevSecOps y seguridad de infraestructuras
 📊 Documentación técnica, evidencias y generación de informes
 
-## 📚 Mis libros tecnológicos (Algunos, Son más)
+## 📚 Mis libros tecnológicos (Algunos, Son más).
 
 ### 🐉 Experto en Kali Linux
 

@@ -1,4 +1,4 @@
-[![`Portada`](wall3.jpg)](https://www.amazon.com/stores/author/B00GI26T22/allbooks)
+[![`Portada`](wall_chat.png)](https://www.amazon.com/stores/author/B00GI26T22/allbooks)
 
 # 👨‍💻 Alejandro G. Vera | Ciberseguridad, Kali Linux y Programación
 
